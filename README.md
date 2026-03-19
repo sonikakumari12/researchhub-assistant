@@ -4,7 +4,7 @@ ResearchHub AI – Intelligent Research Paper Assistant
 
 **ResearchHub AI** is an intelligent research paper management and analysis system designed to help researchers, students, and academicians efficiently handle large volumes of academic content.
 
-The platform leverages **Agentic AI**, **Natural Language Processing (NLP)**, and external research APIs (such as arXiv and PubMed) to automate literature review, extract insights, and enhance knowledge discovery.
+The platform leverages **Agentic AI** and external research APIs (such as arXiv and PubMed) to automate literature review, extract insights, and enhance knowledge discovery.
 
 ---
 
@@ -70,12 +70,6 @@ ResearchHub AI solves this by:
 * VS Code
 
 ---
-
-## 🧩 System Architecture
-
-```text
-User → Frontend → Backend API → AI Processing Layer → External APIs (arXiv / PubMed)
-```
 ## 🌐 External APIs
 
 * arXiv API
